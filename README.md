@@ -44,13 +44,14 @@ cd fund-pathway-app
 npm install
 npm run dev
 
-connect with me on 
-LinkedIn
-www.linkedin.com/in/shreesh-sharma-b5273a35a
 
-GitHub 
-https://github.com/SHREEESH7073
+## connect with me on 
+## LinkedIn
+## www.linkedin.com/in/shreesh-sharma-b5273a35a
 
-Email
-shreesh010206@gmail.com
+## GitHub 
+## https://github.com/SHREEESH7073
+
+## Email
+## shreesh010206@gmail.com
 
